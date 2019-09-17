@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pallain9/last-train-to-nodeville/issues"
   },
-  "homepage": "https://github.com/pallain9/last-train-to-nodeville#readme"
+  "homepage": "https://github.com/pallain9/last-train-to-nodeville#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
 }
