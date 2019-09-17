@@ -1,0 +1,19 @@
+{
+  "name": "last-train-to-nodeville",
+  "version": "1.0.0",
+  "description": "## Instructions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallain9/last-train-to-nodeville.git"
+  },
+  "author": "Peter Allain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallain9/last-train-to-nodeville/issues"
+  },
+  "homepage": "https://github.com/pallain9/last-train-to-nodeville#readme"
+}
